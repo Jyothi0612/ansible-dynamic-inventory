@@ -13,3 +13,4 @@ hostnames:
 keyed_groups:
   - key: tags.Name
     seperator: ''
+    leading_separator: false
